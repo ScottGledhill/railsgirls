@@ -17,5 +17,4 @@
  footer { margin-top: 100px; }
  table, td, th { vertical-align: middle; border: none; }
  th { border-bottom: 1px solid #DDD; }
- body { background-image: url(catinleggings.jpg);
- }
+ body { background-image: url(catinleggings.jpg); no-repeat center center fixed; background-size: cover; }
